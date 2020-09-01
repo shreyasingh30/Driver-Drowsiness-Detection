@@ -1,2 +1,4 @@
 # Driver-Drowsiness-Detection
-This project is the implementation of Computer Vision techniques to detect drowsiness of a driver and alert when the user is drowsy or sleeping.
+A computer vision system that automatically detects driver drowsiness in a rreal-time video stream. 
+It plays an alarm when driver appears to be drowsy
+Technolody used- OpenCv, Dlib, Python
